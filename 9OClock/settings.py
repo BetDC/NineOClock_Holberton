@@ -52,7 +52,7 @@ MIDDLEWARE = [
 ]
 
 
-ROOT_URLCONF = 'HandiEase.urls'
+ROOT_URLCONF = 'NineOClock.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'HandiEase.wsgi.application'
+WSGI_APPLICATION = 'NineOClock.wsgi.application'
 
 
 # Database
